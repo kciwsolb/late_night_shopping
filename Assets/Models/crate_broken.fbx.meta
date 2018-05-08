@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 4a1b27a28c575ae499b9aecf694c8af6
+timeCreated: 1524432695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: crate_break
+    100002: crate_break1
+    100004: crate_break10
+    100006: crate_break11
+    100008: crate_break12
+    100010: crate_break13
+    100012: crate_break14
+    100014: crate_break15
+    100016: crate_break16
+    100018: crate_break17
+    100020: crate_break18
+    100022: crate_break19
+    100024: crate_break2
+    100026: crate_break20
+    100028: crate_break21
+    100030: crate_break22
+    100032: crate_break24
+    100034: crate_break25
+    100036: crate_break3
+    100038: crate_break5
+    100040: crate_break6
+    100042: crate_break7
+    100044: crate_break8
+    100046: crate_break9
+    100048: //RootNode
+    400000: crate_break
+    400002: crate_break1
+    400004: crate_break10
+    400006: crate_break11
+    400008: crate_break12
+    400010: crate_break13
+    400012: crate_break14
+    400014: crate_break15
+    400016: crate_break16
+    400018: crate_break17
+    400020: crate_break18
+    400022: crate_break19
+    400024: crate_break2
+    400026: crate_break20
+    400028: crate_break21
+    400030: crate_break22
+    400032: crate_break24
+    400034: crate_break25
+    400036: crate_break3
+    400038: crate_break5
+    400040: crate_break6
+    400042: crate_break7
+    400044: crate_break8
+    400046: crate_break9
+    400048: //RootNode
+    2100000: CrateBody
+    2100002: CrateFrame
+    2300000: crate_break
+    2300002: crate_break1
+    2300004: crate_break10
+    2300006: crate_break11
+    2300008: crate_break12
+    2300010: crate_break13
+    2300012: crate_break14
+    2300014: crate_break15
+    2300016: crate_break16
+    2300018: crate_break17
+    2300020: crate_break18
+    2300022: crate_break19
+    2300024: crate_break2
+    2300026: crate_break20
+    2300028: crate_break21
+    2300030: crate_break22
+    2300032: crate_break24
+    2300034: crate_break25
+    2300036: crate_break3
+    2300038: crate_break5
+    2300040: crate_break6
+    2300042: crate_break7
+    2300044: crate_break8
+    2300046: crate_break9
+    3300000: crate_break
+    3300002: crate_break1
+    3300004: crate_break10
+    3300006: crate_break11
+    3300008: crate_break12
+    3300010: crate_break13
+    3300012: crate_break14
+    3300014: crate_break15
+    3300016: crate_break16
+    3300018: crate_break17
+    3300020: crate_break18
+    3300022: crate_break19
+    3300024: crate_break2
+    3300026: crate_break20
+    3300028: crate_break21
+    3300030: crate_break22
+    3300032: crate_break24
+    3300034: crate_break25
+    3300036: crate_break3
+    3300038: crate_break5
+    3300040: crate_break6
+    3300042: crate_break7
+    3300044: crate_break8
+    3300046: crate_break9
+    4300000: crate_break
+    4300002: crate_break9
+    4300004: crate_break5
+    4300006: crate_break3
+    4300008: crate_break15
+    4300010: crate_break2
+    4300012: crate_break1
+    4300014: crate_break16
+    4300016: crate_break17
+    4300018: crate_break18
+    4300020: crate_break19
+    4300022: crate_break20
+    4300024: crate_break21
+    4300026: crate_break22
+    4300028: crate_break24
+    4300030: crate_break25
+    4300032: crate_break13
+    4300034: crate_break12
+    4300036: crate_break14
+    4300038: crate_break11
+    4300040: crate_break10
+    4300042: crate_break8
+    4300044: crate_break7
+    4300046: crate_break6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
